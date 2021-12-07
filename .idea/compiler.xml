@@ -8,8 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="xyz-bank-page-factory-jp" />
-        <module name="xyz-bank-jp" />
+        <module name="xyz-bank-page-factory-wk14" />
         <module name="xyz-bank-page-factory-wk14-jp" />
+        <module name="xyz-bank-jp" />
       </profile>
     </annotationProcessing>
   </component>
